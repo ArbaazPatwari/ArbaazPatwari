@@ -4,16 +4,12 @@ This is my Github Profile. I'm an aspiring software engineer and am looking forw
 
 Here's a personal website that I am building as a hobby: https://arbaazpatwari.github.io/spectre/
 
----
+<hr>
 
+<img style="display: inline;" align="left" src="https://github-readme-stats.vercel.app/api?username=arbaazpatwari&show_icons=true&theme=calm" />
 
+<img style="display: inline;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbaazpatwari&layout=compact" />
 
-<hr/>
+<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arbaazpatwari)](https://github.com/arbaazpatwari/github-readme-stats)
----
-A summary of my GitHub statistics (^)
-A showcase of some of my early coding projects (v)
----
 https://user-images.githubusercontent.com/90115761/172487463-d74bebe6-e125-46d6-8094-eb33320d268a.mp4
-
