@@ -10,5 +10,5 @@ https://user-images.githubusercontent.com/90115761/172487463-d74bebe6-e125-46d6-
 
 ---
 
-| ![Arbaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arbaazpatwari&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arbaazpatwari&layout=donut)](https://github.com/arbaazpatwari/github-readme-stats) |
+| ![Arbaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=arbaazpatwari&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arbaazpatwari&layout=donut&theme=transparent)](https://github.com/arbaazpatwari/github-readme-stats) |
 | --- | --- |
