@@ -2,7 +2,7 @@
 
 This is my Github Profile. I'm an aspiring software engineer and am looking forward to building useful things and creations. The repositories on this account will regard academic study, projects that I wish to share, and other things I work on.
 
-Here's a personal website that I built as a hobby: https://arbaazpatwari.github.io/spectre/
+Here's a portfolio website I was recently working on: https://arbaazpatwari.github.io/Portfolio/
 
 Below is a video showcasing my early software projects.
 
